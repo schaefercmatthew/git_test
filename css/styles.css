@@ -1,0 +1,19 @@
+h1{color: blue;}
+
+
+.logo{
+    margin:0;
+    padding:0;
+    border: none;
+
+}
+
+.header{height: 20vh;
+width: 100%;
+background-color: #00beef;
+padding:0;
+margin:0;
+border: none;
+display: flex;
+
+}
